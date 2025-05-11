@@ -8,7 +8,7 @@
   <div class="container">
     <div class="card">
       <div class="profile-img">
-        <img src="WhatsApp Image 2025-02-12 at 13.37.48 (1).jpeg" alt="Foto Profil" />
+        <img src="WhatsApp Image 2025-02-12 at 13.37.48 (2).jpeg" alt="Foto Profil" />
       </div>
       <div class="profile-info">
         <h1>Adi Maqfur Rahmaddhani</h1>
