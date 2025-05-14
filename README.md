@@ -14,7 +14,7 @@
         <h1>Adi Maqfur Rahmaddhani</h1>
         <h2>Frash Graduete</h2>
         <p class="bio">
-          Saya adalah seorang siswa dengan jurusan [Teknik komputer jaringan]. Saya percaya pada kerja keras, integritas, dan mempelajari hal-hal baru 
+          Saya adalah seorang siswa dengan jurusan [Teknik komputer jaringan]. Saya percaya pada kerja keras, Tepat waktu, dan senang mempelajari hal-hal baru 
  </p>
         <div class="contact">
           <p><strong>Email:</strong> adymaqfuraramaddani@gmail.com</p>
